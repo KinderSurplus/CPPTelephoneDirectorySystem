@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/ITHomework/2ndYear/Semester1/C++ projects/week12_Prog2100_TelephoneDirSystem/Listing.h
+iostream
+-
+
+F:/ITHomework/2ndYear/Semester1/C++ projects/week12_Prog2100_TelephoneDirSystem/main.cpp
+iostream
+-
+string
+F:/ITHomework/2ndYear/Semester1/C++ projects/week12_Prog2100_TelephoneDirSystem/string
+vector
+-
+Listing.h
+F:/ITHomework/2ndYear/Semester1/C++ projects/week12_Prog2100_TelephoneDirSystem/Listing.h
+
